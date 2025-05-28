@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank" style="color: #00D9F7;">Hetag</a> 
+<h1 align="center">Hi there, I'm Hetag</h1> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
   <a href="https://github.com/hetagdarchiev">
