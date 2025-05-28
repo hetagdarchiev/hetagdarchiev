@@ -1,16 +1,18 @@
-## Hi there 👋
+✌️Hi! My name is Hetag, I am a Front—end Developer. Welcome to my GitHub!
 
-<!--
-**hetagdarchiev/hetagdarchiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm studying it now
+- React
+- Vite
+- C#
+- PHP
+- SQL
+- English Language (At least I'm trying to.)
 
-Here are some ideas to get you started:
+😊Examples of work
+- https://github.com/hetagdarchiev/librex - it is online library with backend
+- https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&theme=radical)](https://github.com/ваш_ник)  
+
+🔗 Contacts 
+- https://t.me/Mohatma
