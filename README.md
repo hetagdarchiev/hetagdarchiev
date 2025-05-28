@@ -1,10 +1,8 @@
-<div align="center">
+<a href="https://github.com/hetagdarchiev" align="center">
 <h1 align="center">Hi there, <span style="color: #00D9F7;">I'm Hetag</span> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-  <a href="https://github.com/hetagdarchiev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=700&size=34&pause=1000&color=00D9F7FF&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
-  </a>
-</div>
+</a>
 
 🌱 I'm studying it now
 - React
@@ -19,4 +17,4 @@
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
 [![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&theme=radical)](https://github.com/ваш_ник)  
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
