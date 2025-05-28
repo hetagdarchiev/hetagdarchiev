@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <div align="center">
   <a href="https://github.com/hetagdarchiev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=700&size=34&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=700&size=34&pause=1000&color=d9f7ff&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
   </a>
 </div>
 
