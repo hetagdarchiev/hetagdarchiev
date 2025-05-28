@@ -15,7 +15,7 @@
 - English Language (At least I'm trying to.)
 
 😊Examples of work
-- https://github.com/hetagdarchiev/librex - it is online library with backend
+- <span color='#fff'>https://github.com/hetagdarchiev/librex</span> - it is online library with backend
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
 
