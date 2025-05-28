@@ -18,10 +18,6 @@
 - https://github.com/hetagdarchiev/librex - it is online library with backend
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-  <!-- Your Stats Card -->
   [![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&theme=radical&hide_border=true)](https://github.com/hetagdarchiev)
-  
-  <!-- Languages Card - Fixed to use YOUR username -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetagdarchiev&layout=compact&theme=radical&hide_border=true)](https://github.com/hetagdarchiev)
-</div>
+
