@@ -20,5 +20,3 @@
 
 [![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&theme=radical)](https://github.com/ваш_ник)  
 
-🔗 Contacts 
-- https://t.me/Mohatma
