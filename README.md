@@ -18,5 +18,7 @@
 - https://github.com/hetagdarchiev/librex - it is online library with backend
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
+<div style="display:flex; justify-content:center;">
 [![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&theme=radical)](https://github.com/ваш_ник)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
