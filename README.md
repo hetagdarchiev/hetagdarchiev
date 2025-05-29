@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, <span style="color: #00D9F7;">I'm Hetag</span> 
+<h1 align="center">Hi there, <span style="color: #00D9F7;">I'm Khetag</span> 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" width='50'src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966"></h1>
 <div align="center">
       <a href="https://github.com/hetagdarchiev">
