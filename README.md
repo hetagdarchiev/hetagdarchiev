@@ -7,10 +7,10 @@
 </div>
 
 🌱 I'm studying it now
-- React
+- React 
 - Vite
 - Node js
-- python
+- Python
 - English Language (At least I'm trying to.)
 
 😊Examples of work
