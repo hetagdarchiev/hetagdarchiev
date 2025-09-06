@@ -9,9 +9,8 @@
 🌱 I'm studying it now
 - React
 - Vite
-- C#
-- PHP
-- SQL
+- Node js
+- python
 - English Language (At least I'm trying to.)
 
 😊Examples of work
