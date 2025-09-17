@@ -17,4 +17,4 @@
 - <span color='#fff'>https://github.com/hetagdarchiev/librex</span> - it is online library with backend
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=shadow_blue)
