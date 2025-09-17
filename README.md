@@ -16,7 +16,3 @@
 😊Examples of work
 - <span color='#fff'>https://github.com/hetagdarchiev/librex</span> - it is online library with backend
 - https://github.com/hetagdarchiev/tetris-in-the-console - this is tetris written in C#
-
-
-  [![Khetag Darchiev GitHub stats](https://github-readme-stats.vercel.app/api?username=hetagdarchiev&show_icons=true&title_color=00D9F7&icon_color=00D9F7&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/hetagdarchiev)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hetagdarchiev&layout=compact&title_color=00D9F7&text_color=ffffff&bg_color=0d1117&hide_border=true)](https://github.com/hetagdarchiev)
