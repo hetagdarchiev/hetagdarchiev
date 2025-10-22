@@ -7,9 +7,6 @@
 </div>
 
 🌱 I'm studying it now
-- React 
-- Vite
-- Node js
+- Next js
+- Zustand
 - Python
-- English Language (At least I'm trying to.)
-
