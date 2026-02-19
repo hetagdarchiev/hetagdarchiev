@@ -8,5 +8,5 @@
 
 🌱 I'm studying it now
 - Next js
-- Zustand
-- Python
+- GoLang
+- SQL
