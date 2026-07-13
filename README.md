@@ -52,7 +52,9 @@
 <details>
   <summary align="center"><b>✨ more stuff about me</b></summary>
   <br/>
-      <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/033e7793a0170712522ee7cfe65e7f8b91fb073f.gif" width="300" alt="Анимация">
+  <p align="center">
+  <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/033e7793a0170712522ee7cfe65e7f8b91fb073f.gif" width="300" alt="Relax and Rest">
+</p>
 </details>
 
 <br/>
