@@ -39,13 +39,7 @@
 
 <br/>
 
-<div>
-  <b>🚀 Currently working on</b><br/><br/>
- <a href="https://github.com/hetagdarchiev/comunicore">
-  <img width="25" src="https://i.ibb.co/QVshQ3q/Logo.png" alt="Comunicore" align="absmiddle">
-  <span>omunicore</span>
-</a>
-</div>
+
 
 <br/>
 
@@ -55,6 +49,13 @@
   <p align="center">
   <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/033e7793a0170712522ee7cfe65e7f8b91fb073f.gif" width="300" alt="Relax and Rest">
 </p>
+  <div align="center">
+  <b>🚀 Currently working on</b><br/><br/>
+ <a href="https://github.com/hetagdarchiev/comunicore">
+  <img width="25" src="https://i.ibb.co/QVshQ3q/Logo.png" alt="Comunicore" align="absmiddle">
+  <span>omunicore</span>
+</a>
+</div>
 </details>
 
 <br/>
