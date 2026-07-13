@@ -1,25 +1,58 @@
-<h1 align="center">Hi there, <span style="color: #00D9F7;">I'm Khetag</span> 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" width='50'src="https://private-user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM1NTU1ODEsIm5iZiI6MTc3MzU1NTI4MSwicGF0aCI6Ii83NDAzODE5MC8yNDMxOTk1NDctNDIwNzcwNDktMTkzOS00OTNlLTlhMTktNDdjYTVkYjM2NjQzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE1VDA2MTQ0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1ZmU1ZGQ2NGRmZDdkZTUxYjQ4OThhNDQyMDZjMDUwODk2YzdmZjAxNTI0MzBkNDc3OWM4NjRkNjMxOWNkNTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2YCRKcV0PEXsCOd_GTPOBVMCxvlmEcA0LmpYlJMO31s"></h1>
 <div align="center">
-      <a href="https://github.com/hetagdarchiev">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=700&size=34&pause=1000&color=00D9F7FF&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+my+profile" alt="Typing SVG" />
-  </a>
+  <table width="100%">
+    <tr>
+      <td  align="center" valign="middle">
+        <br />
+        <h3>Hello hello</h3>
+        <p>I'm Khetag, a Full-Stack developer & design enthusiast 👨‍💻</p>
+        <br />
+        <div>
+              <h3>Frontend</h3>
+              <div>
+                  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+                  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+                  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+                  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+                  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+                  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+              </div>
+              <h3>Backend</h3>
+              <div>
+                    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+                    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+              </div>
+              <h3>Social</h3>
+              <div>
+                    <a href="https://t.me/Mohatma"><img src="https://img.shields.io/badge/telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+                    <a href="mailto:ваш_email@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+                    <a href="ссылка_на_портфолио"><img src="https://img.shields.io/badge/portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+              </div>
+        <br /><br />
+      </td>
+      <td width="35%" align="center" valign="middle">
+        <!-- Вертикальная картинка в стиле аниме/чилл. Вы можете вставить сюда ссылку на любую свою картинку -->
+            <img src="https://i.ibb.co/QFGM99FX/Gemini-Generated-Image-rbum8vrbum8vrbum.png" alt="Hi" border="0"></a>
+      </td>
+    </tr>
+  </table>
 </div>
 
-### 🌱 I'm studying it now
-- **React Native** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="10" vertical-align="middle" />
-- **Tailwind** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="10" vertical-align="middle" />
-- **GoLang** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="10" vertical-align="middle" />
-- **SQL / PostgreSQL** <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20" height="10" vertical-align="middle" />
-
-<div align="left">
-<a href="https://khetagdarchiev.vercel.app/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
-<a href="mailto:het.dar2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
-</div>
-<br>
-
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<br/>
 
 <div>
+  <b>🚀 Currently working on</b><br/><br/>
+ <a href="https://github.com/hetagdarchiev/comunicore">
+  <img width="25" src="https://i.ibb.co/QVshQ3q/Logo.png" alt="Comunicore" align="absmiddle">
+  <span>omunicore</span>
+</a>
+</div>
+
+<br/>
+
+<details>
+  <summary align="center"><b>✨ more stuff about me</b></summary>
+  <br/>
+      <img src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/033e7793a0170712522ee7cfe65e7f8b91fb073f.gif" width="300" alt="Анимация">
+</details>
+
+<br/>
