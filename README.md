@@ -6,7 +6,6 @@
         <br />
         <h3>Hello, hello! 👋</h3>
         <p>I'm Khetag, a Full-Stack developer & design enthusiast 👨‍💻</p>
-        <br />
         <div>
           <h3>Frontend</h3>
           <div>
@@ -46,18 +45,6 @@
             <img src="https://img.shields.io/badge/Pixso-7656FF?style=flat-square&logoColor=white" alt="Pixso" />
             <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
           </div>
-          <h3>Social</h3>
-          <div>
-            <a href="https://t.me/Mohatma">
-              <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-            </a>
-            <a href="mailto:het.dar2003@yandex.ru">
-              <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-            </a>
-            <a href="https://khetagdarchiev.vercel.app/">
-              <img src="https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-            </a>
-          </div>
         </div>
         <br /><br />
       </td>
@@ -74,11 +61,13 @@
 <br />
 
 <details>
+  
   <summary align="center">
     <b>✨ More stuff about me</b>
   </summary>
   <br />
   <p align="center">
+    not today <br />
     <img
       src="https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/033e7793a0170712522ee7cfe65e7f8b91fb073f.gif"
       width="300"
@@ -86,17 +75,18 @@
     />
   </p>
   <div align="center">
-    <b>🚀 Currently working on</b>
-    <br /><br />
-    <a href="https://github.com/hetagdarchiev/comunicore">
-      <img
-        width="25"
-        src="https://i.ibb.co/QVshQ3q/Logo.png"
-        alt="Comunicore"
-        align="middle"
-      />
-      <b>Comunicore</b>
-    </a>
+   <h3>Social</h3>
+          <div>
+            <a href="https://t.me/Mohatma">
+              <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+            </a>
+            <a href="mailto:het.dar2003@yandex.ru">
+              <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+            </a>
+            <a href="https://khetagdarchiev.vercel.app/">
+              <img src="https://img.shields.io/badge/Portfolio-252F3F?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+            </a>
+          </div>
   </div>
 </details>
 <br />
